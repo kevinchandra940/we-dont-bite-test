@@ -1,0 +1,399 @@
+/* SOCIAL MEDIA ICON FOOTER  */
+.fa {
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    color: white;
+}
+
+/* LOGO NAVBAR SIZE  */
+@media only screen and (min-device-width: 1366px) and (max-device-width: 1920px) {
+    .navbarLogo {
+        width: 60%;
+        margin: auto;
+        margin-top: 30px;
+    }
+}
+@media only screen and (min-device-width: 1024px) and (max-device-width: 1365px) {
+    .navbarLogo {
+        width: 60%;
+        margin: auto;
+        margin-top: 30px;
+    }
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1023px) {
+    .navbarLogo {
+        width: 60%;
+        margin: auto;
+        margin-top: 30px;
+    }
+}
+@media only screen and (min-device-width: 480px) and (max-device-width: 767px) {
+    .navbarLogo {
+        width: 100%;
+        margin: auto;
+        margin-top: 30px;
+        text-align: center;
+    }
+}
+@media only screen and (min-device-width: 215px) and (max-device-width: 479px) {
+    .navbarLogo {
+        width: 100%;
+        margin: auto;
+        margin-top: 30px;
+        text-align: center;
+    }
+}
+
+/* SECTION 1 - CONTENT 1 */
+@media only screen and (min-device-width: 1366px) and (max-device-width: 1920px) {
+    .contentSection1 {
+        color: white;
+        font-size:70px;
+        font-weight: 900;
+    }
+}
+@media only screen and (min-device-width: 1024px) and (max-device-width: 1365px) {
+    .contentSection1 {
+        color: white;
+        font-size:60px;
+        font-weight: 900;
+    }
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1023px) {
+    .contentSection1 {
+        color: white;
+        font-size:50px;
+        font-weight: 900;
+    }
+}
+@media only screen and (min-device-width: 480px) and (max-device-width: 767px) {
+    .contentSection1 {
+        color: white;
+        font-size:40px;
+        font-weight: 900;
+    }
+}
+@media only screen and (min-device-width: 215px) and (max-device-width: 479px) {
+    .contentSection1 {
+        color: white;
+        font-size:30px;
+        font-weight: 900;
+        text-align: center;
+    }
+}
+
+/* SECTION 2 - TITLE 1 */
+@media only screen and (min-device-width: 1366px) and (max-device-width: 1920px) {
+    .titleSection2 {
+        font-size: 50px;
+        font-weight: 700;
+    }
+}
+@media only screen and (min-device-width: 1024px) and (max-device-width: 1365px) {
+    .titleSection2 {
+        font-size: 50px;
+        font-weight: 700;
+    }
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1023px) {
+    .titleSection2 {
+        font-size: 40px;
+        font-weight: 700;
+    }
+}
+@media only screen and (min-device-width: 480px) and (max-device-width: 767px) {
+    .titleSection2 {
+        font-size: 40px;
+        font-weight: 700;
+    }
+}
+@media only screen and (min-device-width: 215px) and (max-device-width: 479px) {
+    .titleSection2 {
+        font-size: 30px;
+        font-weight: 700;
+    }
+}
+
+/* SECTION 2 - CARD CONTENT 1*/
+@media only screen and (min-device-width: 1366px) and (max-device-width: 1920px) {
+    .cardContent1 {
+        width: 90%;
+        display: flex;
+        justify-content: space-between;
+        margin: auto;
+        margin-top: 100px;
+        flex-wrap: wrap;
+    }
+}
+@media only screen and (min-device-width: 1024px) and (max-device-width: 1365px) {
+    .cardContent1{
+        width: 90%;
+        display: flex;
+        justify-content: center;
+        margin: auto;
+        margin-top: 100px;
+        flex-wrap: wrap;
+    }
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1023px) {
+    .cardContent1 {
+        width: 90%;
+        display: flex;
+        justify-content: center;
+        margin: auto;
+        margin-top: 100px;
+        flex-wrap: wrap;
+        text-align: center;
+    }
+}
+@media only screen and (min-device-width: 480px) and (max-device-width: 767px) {
+    .cardContent1 {
+        width: 90%;
+        display: flex;
+        justify-content: center;
+        margin: auto;
+        margin-top: 100px;
+        flex-wrap: wrap;
+        text-align: center;
+    }
+}
+@media only screen and (min-device-width: 215px) and (max-device-width: 479px) {
+    .cardContent1 {
+        width: 90%;
+        display: flex;
+        justify-content: center;
+        margin: auto;
+        margin-top: 100px;
+        flex-wrap: wrap;
+        text-align: center;
+    }
+}
+
+/* SECTION 3 - TESTIMONIAL CONTENT CONTAINER 1*/
+@media only screen and (min-device-width: 1366px) and (max-device-width: 1920px) {
+    .testimonialContainer {
+        width: 100%;
+        justify-content: center;
+        display: flex;
+        flex-wrap: wrap;
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+}
+@media only screen and (min-device-width: 1024px) and (max-device-width: 1365px) {
+    .testimonialContainer {
+        width: 100%;
+        justify-content: center;
+        display: flex;
+        flex-wrap: wrap;
+        padding-top: 80px;
+        padding-bottom: 80px;
+        text-align: center;
+    }
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1023px) {
+    .testimonialContainer {
+        width: 100%;
+        justify-content: center;
+        display: flex;
+        flex-wrap: wrap;
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+}
+@media only screen and (min-device-width: 480px) and (max-device-width: 767px) {
+    .testimonialContainer {
+        width: 100%;
+        justify-content: center;
+        display: flex;
+        flex-wrap: wrap;
+        padding-top: 80px;
+        padding-bottom: 80px;
+        text-align: center;
+        margin: auto;
+    }
+}
+@media only screen and (min-device-width: 215px) and (max-device-width: 479px) {
+    .testimonialContainer {
+        width: 100%;
+        justify-content: center;
+        display: flex;
+        flex-wrap: wrap;
+        padding-top: 80px;
+        padding-bottom: 80px;
+        text-align: center;
+        margin: auto;
+    }
+}
+
+/* SECTION 3 - FONT TITLE 1*/
+@media only screen and (min-device-width: 1366px) and (max-device-width: 1920px) {
+    .testimonialTitle {
+        font-size: 35px;
+        font-weight: 700;
+    }
+}
+@media only screen and (min-device-width: 1024px) and (max-device-width: 1365px) {
+    .testimonialTitle {
+        font-size: 35px;
+        font-weight: 700;
+    }
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1023px) {
+    .testimonialTitle {
+        font-size: 30px;
+        font-weight: 700;
+    }
+}
+@media only screen and (min-device-width: 480px) and (max-device-width: 767px) {
+    .testimonialTitle {
+        font-size: 30px;
+        font-weight: 700;
+    }
+}
+@media only screen and (min-device-width: 215px) and (max-device-width: 479px) {
+    .testimonialTitle {
+        font-size: 25px;
+        font-weight: 700;
+    }
+}
+
+
+/* SECTION 3 - FONT CONTENT 1*/
+@media only screen and (min-device-width: 1366px) and (max-device-width: 1920px) {
+    .testimonialContent {
+        font-size: 25px;
+    }
+}
+@media only screen and (min-device-width: 1024px) and (max-device-width: 1365px) {
+    .testimonialContent {
+        font-size: 25px;
+    }
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1023px) {
+    .testimonialContent {
+        font-size: 25px;
+    }
+}
+@media only screen and (min-device-width: 480px) and (max-device-width: 767px) {
+    .testimonialContent {
+        font-size: 20px;
+    }
+}
+@media only screen and (min-device-width: 215px) and (max-device-width: 479px) {
+    .testimonialContent {
+        font-size: 20px;
+    }
+}
+
+
+/* SECTION 3 - QUOTES IMAGE POSITIONING*/
+@media only screen and (min-device-width: 1600px) and (max-device-width: 1920px) {
+    .quotesPosition {
+        position: absolute;
+        top: 1560px;
+        left: 630px;
+        width: 10%;
+    }
+}
+@media only screen and (min-device-width: 1366px) and (max-device-width: 1599px) {
+    .quotesPosition {
+        position: absolute;
+        top: 1840px;
+        left: 470px;
+        width: 10%;
+    }
+}
+@media only screen and (min-device-width: 1024px) and (max-device-width: 1365px) {
+    .quotesPosition {
+        position: absolute;
+        top: 1850px;
+        left: 480px;
+        width: 10%;
+    }
+}
+@media only screen and (min-device-width: 1001px) and (max-device-width: 1023px) {
+    .quotesPosition {
+        position: absolute;
+        top: 1840px;
+        left: 350px;
+        width: 10%;
+    }
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1000px) {
+    .quotesPosition {
+        position: absolute;
+        top: 2070px;
+        left: 330px;
+        width: 10%;
+    }
+}
+@media only screen and (min-device-width: 480px) and (max-device-width: 767px) {
+    .quotesPosition {
+        position: absolute;
+        top: 2070px;
+        left: 260px;
+        width: 10%;
+    }
+}
+@media only screen and (min-device-width: 215px) and (max-device-width: 479px) {
+    .quotesPosition {
+        display: none;
+    }
+}
+
+
+/* FOOTER - RESPONSIVE*/
+@media only screen and (min-device-width: 1366px) and (max-device-width: 1920px) {
+    .footerResponsive1 {
+        width: 90%;
+        display: flex;
+        margin: auto;
+        padding-top: 100px;
+        padding-bottom: 50px;
+        flex-wrap: wrap;
+    }
+}
+@media only screen and (min-device-width: 1024px) and (max-device-width: 1365px) {
+    .footerResponsive1 {
+        width: 90%;
+        display: flex;
+        margin: auto;
+        padding-top: 100px;
+        padding-bottom: 50px;
+        flex-wrap: wrap;
+    }
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1023px) {
+    .footerResponsive1 {
+        width: 90%;
+        display: flex;
+        margin: auto;
+        padding-top: 100px;
+        padding-bottom: 50px;
+        flex-wrap: wrap;
+    }
+}
+@media only screen and (min-device-width: 480px) and (max-device-width: 767px) {
+    .footerResponsive1 {
+        width: 90%;
+        /* display: flex; */
+        margin: auto;
+        padding-top: 100px;
+        padding-bottom: 50px;
+        flex-wrap: wrap;
+    }
+}
+@media only screen and (min-device-width: 215px) and (max-device-width: 479px) {
+    .footerResponsive1 {
+        width: 90%;
+        /* display: flex; */
+        margin: auto;
+        padding-top: 100px;
+        padding-bottom: 50px;
+        flex-wrap: wrap;
+    }
+}
